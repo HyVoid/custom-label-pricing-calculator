@@ -11,7 +11,7 @@
 > - 🌐 **[Launch the Free Web-Based Custom Label Price Calculator](#browser-version)** — Run instant label quote simulations, test dimensional cost sensitivity, and preview quantity break unit prices directly in your browser without installing software or creating an account.
 > - 📥 **[Download the Parametric Label Estimating Excel Workbook (.xlsx)](#excel-version)** — Get the full spreadsheet template for offline print cost estimation, centralized CPQ parameter management, competitor price calibration, and repeatable commercial margin analysis.
 >
-> *Deployment Note: Connect the browser demo and downloadable Excel distribution links to their live endpoints prior to release. The Excel pricing model requires Microsoft 365 or Excel 2021 and later for dynamic array formula compatibility.*
+
 
 ---
 
