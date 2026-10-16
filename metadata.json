@@ -1,0 +1,6 @@
+{
+  "name": "Parametric Competitive Pricing Engine",
+  "description": "Custom label parametric competitive pricing engine with SSOT configuration, batch computation pipeline, competitor benchmark calibration, and 36-scenario monotonic boundary validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
