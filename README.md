@@ -1,3 +1,5 @@
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+
 # Custom Printed Label Pricing Calculator & Parametric Estimating Excel Template
 <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/328f1d5d-4596-4724-a13a-7e4818e30d4f" />
 
