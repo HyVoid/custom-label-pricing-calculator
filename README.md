@@ -10,8 +10,8 @@
 
 > **Access the Custom Label Pricing & Quoting Tools**
 >
-> - 🌐 **[Launch the Free Web-Based Custom Label Price Calculator](#browser-version)** — Run instant label quote simulations, test dimensional cost sensitivity, and preview quantity break unit prices directly in your browser without installing software or creating an account.
-> - 📥 **[Download the Parametric Label Estimating Excel Workbook (.xlsx)](https://theseusworkshop.com/l/whpeug)** — Get the full spreadsheet template for offline print cost estimation, centralized CPQ parameter management, competitor price calibration, and repeatable commercial margin analysis.
+> - 🌐 **[Launch the Free Web-Based Custom Label Price Calculator](https://hyvoid.github.io/custom-label-pricing-calculator/)** — Run instant label quote simulations, test dimensional cost sensitivity, and preview quantity break unit prices directly in your browser without installing software or creating an account.
+> - 📥 **[Download the Parametric Label Estimating Excel Workbook (.xlsx)](https://theseusworkshop.com/l/whpeug?utm_source=github&utm_medium=GitHub%20README)** — Get the full spreadsheet template for offline print cost estimation, centralized CPQ parameter management, competitor price calibration, and repeatable commercial margin analysis.
 >
 
 
@@ -71,7 +71,7 @@ When raw material costs fluctuate or market positioning shifts, update your cent
 3. **Competitor Variance Alerts:** Identify quotes that deviate beyond your acceptable tolerance band.
 
 > 🚀 **Ready to operationalize your label quoting workflow?** 
-> After testing quick scenarios in the **[Free Browser-Based Label Pricing Calculator](#browser-version)**, download the **[Full Parametric Excel Pricing Workbook](#excel-version)** to save your custom press rates, store proprietary competitor price tables, and run repeatable offline quotes for your estimating team.
+> After testing quick scenarios in the **[Free Browser-Based Label Pricing Calculator](https://hyvoid.github.io/custom-label-pricing-calculator/)**, download the **[Full Parametric Excel Pricing Workbook](https://theseusworkshop.com/l/whpeug?utm_source=github&utm_medium=GitHub%20README)** to save your custom press rates, store proprietary competitor price tables, and run repeatable offline quotes for your estimating team.
 
 ---
 
