@@ -1,4 +1,6 @@
 # Custom Printed Label Pricing Calculator & Parametric Estimating Excel Template
+<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/328f1d5d-4596-4724-a13a-7e4818e30d4f" />
+
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%7C%20Excel-217346)
@@ -9,7 +11,7 @@
 > **Access the Custom Label Pricing & Quoting Tools**
 >
 > - 🌐 **[Launch the Free Web-Based Custom Label Price Calculator](#browser-version)** — Run instant label quote simulations, test dimensional cost sensitivity, and preview quantity break unit prices directly in your browser without installing software or creating an account.
-> - 📥 **[Download the Parametric Label Estimating Excel Workbook (.xlsx)](#excel-version)** — Get the full spreadsheet template for offline print cost estimation, centralized CPQ parameter management, competitor price calibration, and repeatable commercial margin analysis.
+> - 📥 **[Download the Parametric Label Estimating Excel Workbook (.xlsx)](https://theseusworkshop.com/l/whpeug)** — Get the full spreadsheet template for offline print cost estimation, centralized CPQ parameter management, competitor price calibration, and repeatable commercial margin analysis.
 >
 
 
