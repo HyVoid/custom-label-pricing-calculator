@@ -267,12 +267,26 @@ export default function App() {
       {/* §1 Sticky 56px Light Navigation Bar */}
       <header className="nav-bar">
         <div className="page-wrapper h-full flex items-center justify-between gap-4">
-          {/* Left: Brand Identity */}
-          <div className="flex items-center gap-3 shrink-0">
+          {/* Left: Brand Identity & Product Application Content */}
+          <div
+            className="flex items-center gap-2.5 shrink-0 cursor-pointer select-none"
+            onClick={() => setActiveSheet('01_Calc_Front')}
+          >
             <span
-              className="font-display text-lg font-semibold tracking-tight cursor-pointer"
+              className="font-display text-lg font-bold tracking-tight"
+              style={{ color: 'var(--color-primary)' }}
+            >
+              Theseus Workshop
+            </span>
+            <span
+              className="text-xs font-light"
+              style={{ color: 'var(--color-muted)' }}
+            >
+              /
+            </span>
+            <span
+              className="text-xs sm:text-sm font-medium tracking-normal"
               style={{ color: 'var(--nav-text)' }}
-              onClick={() => setActiveSheet('01_Calc_Front')}
             >
               Parametric Competitive Pricing Engine
             </span>
@@ -483,7 +497,7 @@ export default function App() {
       >
         <div className="page-wrapper flex flex-col sm:flex-row items-center justify-between gap-4 text-xs" style={{ color: 'var(--color-muted)' }}>
           <div>
-            Parametric Competitive Pricing Engine · 5-Sheet Zero-Maintenance Dynamic Array Architecture
+            Theseus Workshop · Parametric Competitive Pricing Engine · 5-Sheet Zero-Maintenance Dynamic Array Architecture
           </div>
           <div className="text-right">
             Privacy &amp; Data Security Notice: All data storage in this tool runs exclusively in your browser&apos;s localStorage; the page itself does not retain or transmit any user data.
